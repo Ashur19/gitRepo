@@ -4,7 +4,7 @@ public class prueba {
 	private final String message;
 	
 	public prueba() {
-		this.message = "Hola mundo";
+		this.message = "Chau gente";
 		
 	}
 	
